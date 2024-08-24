@@ -10,5 +10,8 @@
   },
   "scripts": {
     "test": "bun test --watch"
+  },
+  "dependencies": {
+    "ts-pattern": "^5.3.1"
   }
 }
